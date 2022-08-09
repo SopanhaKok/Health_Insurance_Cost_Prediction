@@ -1,0 +1,1 @@
+export const SOME_CONSTANCE = "SOME_CONSTANCE";
